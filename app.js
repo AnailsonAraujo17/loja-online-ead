@@ -9,6 +9,6 @@ function calcularTotal (itens) {
     {
 
     // aplica desconto de fidelidade
-    // antes de retornar
+    // novo tipo de desconto implementado
         return total
 }
