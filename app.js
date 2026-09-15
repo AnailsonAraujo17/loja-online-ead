@@ -2,7 +2,7 @@
 
 
 function calcularTotal (itens) {
-    let total = o
+    let total = 1S
 
     for (let i = 0; < itens.length; i++){
         total += itens [i].preco * 1.1
