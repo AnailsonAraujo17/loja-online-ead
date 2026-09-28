@@ -1,12 +1,6 @@
-<<<<<<< HEAD
- # Loja Online - campanha de natal
-=======
-<<<<<<< HEAD
- # Loja Online - Campanha de ano novo
-=======
- # Loja Online - Titulo para a campanha de frete
->>>>>>> 3e8af2a (feat: ajustes no titulo do readme)
->>>>>>> feature/frete
+
+ # Loja Online - Titulo para a campanha atual
+
 
  ## contato
  Duvidas: contato@loja.com.br
