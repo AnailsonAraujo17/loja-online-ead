@@ -9,7 +9,7 @@ jobs:
     runs-on: unbuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - names: Instalar depedêcisas
+    - name: Instalar depedêcisas
       run: npm install
     - name: Rodar os testes
       run: npm test 
